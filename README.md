@@ -2,7 +2,7 @@
 Command line tool(C++) to build atlas from png images in a folder
 
 # Usage - 
-**Example** --path  "D:\pngs" --width 2048 --height 2048  --prefix "objs"
+**Example:**  --path  "D:\pngs" --width 2048 --height 2048  --prefix "objs"
 
 path = path to Directory containing individual pngs
 
