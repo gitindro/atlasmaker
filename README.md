@@ -1,5 +1,5 @@
 # atlasmaker
-Command line tool(C++) to build atlas from png images in a folder
+Command line tool(C++) to build atlas from png images in a folder. Also spits out a json file with atlas info.
 
 # Usage - 
 **Example:**  --path  "D:\pngs" --width 2048 --height 2048  --prefix "objs"
